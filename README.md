@@ -62,7 +62,7 @@ Any of the CLI options can be added to your `serverless.yml`. For example:
 custom:
   serverless-offline-scaleway:
     host: "0.0.0.0"
-    port: 4000
+    httpPort: 4000
     printOutput: true
 ```
 
